@@ -1,0 +1,2 @@
+// Pobieranie wszystkich spotkań
+
